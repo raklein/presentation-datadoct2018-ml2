@@ -5,7 +5,7 @@ Easiest viewing is with the [.pdf file](https://github.com/raklein/presentation-
 
 <object data="https://github.com/raklein/presentation-datadoct2018-ml2/blob/master/cropped_script.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/raklein/presentation-datadoct2018-ml2/blob/master/cropped_script.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/raklein/presentation-datadoct2018-ml2/blob/master/cropped_script.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
